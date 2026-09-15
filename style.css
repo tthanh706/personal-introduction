@@ -1,4 +1,16 @@
 body {
     font-family: Arial, sans-serif;
     margin: 40px;
+    background-color: #f0f8ff;
+    color: #333;
+}
+
+h1 {
+    color: #1976d2;
+}
+
+section {
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
 }
